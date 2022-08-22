@@ -297,6 +297,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='Dialog'></a>Dialog
 - [a-mma Indic Casual Dialogs Datasets](https://github.com/a-mma/indic_casual_dialogs_dataset)
+- [HDRS- Hindi Dialogue Restaurant Search](https://github.com/skmalviya/HDRS-Corpus) corpus: It is a fully-labelled collection of human-human written conversations in Hindi language on the restaurant domain.
 
 ### <a name='Discourse'></a>Discourse
 - [MIDAS-Hindi Discourse Analysis](https://github.com/midas-research/hindi-discourse)
